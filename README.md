@@ -1,9 +1,9 @@
-A* PATH FINDING ALGORITHM WITH PYGAME GUI
+<b>A* PATH FINDING ALGORITHM WITH PYGAME GUI</b>
 
-Use left click to set start, goal and obstacles.
-
-Use right click to remove objects.
-
-Use space to start the algorithm.
+<ul>
+  <li>Use left click to set start, goal and obstacles.</li>
+  <li>Use right click to remove objects.</li>
+  <li>Use space to start the algorithm.</li>
+</ul>
 
 ![SAMPLE OUTPUT](sampleOutput.jpg?raw=true "Sample Output")
