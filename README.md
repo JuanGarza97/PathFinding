@@ -1,4 +1,4 @@
-<b>A* PATH FINDING ALGORITHM WITH PYGAME GUI</b>
+# <b>A* PATH FINDING ALGORITHM WITH PYGAME GUI</b>
 
 <ul>
   <li>Use left click to set start, goal and obstacles.</li>
